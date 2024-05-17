@@ -16,6 +16,7 @@ namespace OnlineTutor_Core.Context
         {
 
         }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
